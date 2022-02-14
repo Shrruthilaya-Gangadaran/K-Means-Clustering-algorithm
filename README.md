@@ -57,7 +57,6 @@ print('The cluster group for Applicant Income 1000 and Loanamount 100 :' ,predic
 
 ```
 ## Output:
-### Insert your output
 ![output](clustering.jpg)
 
 ## Result
